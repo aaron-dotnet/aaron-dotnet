@@ -2,9 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=6B7280&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=+Hi+I'm+Aarón+Reyes!+👋;I'm+a+Software+Engineer!;I'm+a+.NET+Specialist!+🖥️;Process+Automation+Expert!+🚀;" />
 </h1>
 
-<h3 align="center"><img src="https://media.tenor.com/bhewUhwCTYYAAAAi/tux-linux-tux.gif" width="30"> I'm a software developer passionate about automating and optimizing processes. </h3>
-
----
 
 ### About Me
 
