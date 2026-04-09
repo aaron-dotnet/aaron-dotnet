@@ -39,4 +39,9 @@ I am a **.NET Developer (C# & VB)** with over **5 years of experience** speciali
 - **Linux Server Administration**
 - **Linux Bash Scripting**
 
-[![roadmap.sh](https://roadmap.sh/card/wide/67a6b9cff863343482c0e1f5?variant=dark&roadmaps=linux%2Cshell-bash)](https://roadmap.sh)
+> Also check my roadmap.sh profile
+> https://roadmap.sh/u/aarondotnet
+
+<div align="left">
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/67a6b9cff863343482c0e1f5?variant=dark&roadmaps=linux%2Cshell-bash" alt="roadmap.sh"/></a>
+</div>
