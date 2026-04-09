@@ -32,3 +32,11 @@ I am a **.NET Developer (C# & VB)** with over **5 years of experience** speciali
 - **Database Management:** Solid experience in RDBMS like Microsoft SQL Server and Firebird.
 - **System Admin:** Windows/Linux administration, Virtualization, system optimization and troubleshooting.
 - **Automation:** Strong experience in Web Scraping, API development and shell scripting.
+
+---
+### **Current Learning:**
+
+- **Linux Server Administration**
+- **Linux Bash Scripting**
+
+[![roadmap.sh](https://roadmap.sh/card/wide/67a6b9cff863343482c0e1f5?variant=dark&roadmaps=linux%2Cshell-bash)](https://roadmap.sh)
